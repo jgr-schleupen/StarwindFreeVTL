@@ -1,0 +1,18 @@
+[
+	{ "s": "LADEN", "p": [7] },
+	{ "s": "LASER", "p": [2] },
+	{ "s": "LASER-DRUCKER", "p": [2] },
+	{ "s": "LAUFWERK", "p": [6] },
+	{ "s": "LAUFWERKE", "p": [12] },
+	{ "s": "LETZTE", "p": [2] },
+	{ "s": "LIBRARY", "p": [12, 9, 16, 15, 13, 8, 5, 1, 11, 10, 6, 3] },
+	{ "s": "LICENSE", "p": [7, 6] },
+	{ "s": "LIEGT", "p": [16, 15] },
+	{ "s": "LINKS", "p": [17] },
+	{ "s": "LIZENZ", "p": [7, 6] },
+	{ "s": "LIZENZBEDINGUNGEN", "p": [6] },
+	{ "s": "LIZENZSCHLÜSSEL", "p": [5] },
+	{ "s": "LOAD", "p": [7] },
+	{ "s": "LW", "p": [6] },
+	{ "s": "LÖSCHEN", "p": [11, 8] }
+]

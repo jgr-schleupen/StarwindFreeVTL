@@ -1,0 +1,18 @@
+[
+	{ "s": "KAPITEL", "p": [16, 15, 6] },
+	{ "s": "KEIN", "p": [2] },
+	{ "s": "KEINE", "p": [17] },
+	{ "s": "KEINEN", "p": [2] },
+	{ "s": "KEINER", "p": [1] },
+	{ "s": "KENNTNIS", "p": [12, 6] },
+	{ "s": "KOMMANDO", "p": [16, 15, 11, 10, 9] },
+	{ "s": "KOMPONENTEN", "p": [6] },
+	{ "s": "KONFIGURATION", "p": [8, 3, 6] },
+	{ "s": "KONFIGURIEREN", "p": [6] },
+	{ "s": "KONFIGURIERT", "p": [6] },
+	{ "s": "KONTROLLIEREN", "p": [16, 15, 11, 10, 9] },
+	{ "s": "KORREKT", "p": [12] },
+	{ "s": "KORREKTUREN", "p": [2] },
+	{ "s": "KUNDEN", "p": [1] },
+	{ "s": "KÖNNEN", "p": [12] }
+]

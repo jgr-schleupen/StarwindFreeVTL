@@ -1,0 +1,20 @@
+[
+	{ "s": "WARENNAMEN", "p": [17] },
+	{ "s": "WARENZEICHEN", "p": [2] },
+	{ "s": "WARENZEICHENRECHTLICHEM", "p": [17] },
+	{ "s": "WECHSELN", "p": [14] },
+	{ "s": "WEISE", "p": [1] },
+	{ "s": "WEIST", "p": [2] },
+	{ "s": "WEITER", "p": [6] },
+	{ "s": "WEITERGEGEBEN", "p": [1] },
+	{ "s": "WENN", "p": [6, 2] },
+	{ "s": "WERDEN", "p": [12, 2, 17, 6, 1] },
+	{ "s": "WERK", "p": [2] },
+	{ "s": "WERKES", "p": [2] },
+	{ "s": "WIE", "p": [6] },
+	{ "s": "WINDOWS", "p": [12, 6] },
+	{ "s": "WIR", "p": [2] },
+	{ "s": "WIRD", "p": [9, 6, 5, 3] },
+	{ "s": "WORDEN", "p": [12] },
+	{ "s": "WWW", "p": [5] }
+]

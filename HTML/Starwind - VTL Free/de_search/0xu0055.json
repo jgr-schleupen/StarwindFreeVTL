@@ -1,0 +1,8 @@
+[
+	{ "s": "UM", "p": [3] },
+	{ "s": "UND", "p": [2, 4, 6, 17, 12, 5, 3, 1] },
+	{ "s": "UND/ODER", "p": [2] },
+	{ "s": "UNTER", "p": [2] },
+	{ "s": "UNTERLIEGEN", "p": [17, 2] },
+	{ "s": "UNTERRICHTSGESTALTUNG", "p": [2, 1] }
+]

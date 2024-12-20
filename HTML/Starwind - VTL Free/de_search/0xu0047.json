@@ -1,0 +1,17 @@
+[
+	{ "s": "GB", "p": [6] },
+	{ "s": "GEBRAUCH", "p": [17] },
+	{ "s": "GELADENE", "p": [7, 6] },
+	{ "s": "GENANNTEN", "p": [17] },
+	{ "s": "GENEHMIGUNG", "p": [17] },
+	{ "s": "GERNE", "p": [2] },
+	{ "s": "GERÄTE", "p": [12] },
+	{ "s": "GESETZLICHEN", "p": [2] },
+	{ "s": "GESTARTET", "p": [12] },
+	{ "s": "GESTATTET", "p": [17] },
+	{ "s": "GEWÄHR", "p": [17] },
+	{ "s": "GEWÄHRLEISTUNG", "p": [17] },
+	{ "s": "GILT", "p": [1] },
+	{ "s": "GROSCHOPP", "p": [2, 4] },
+	{ "s": "GUI", "p": [6] }
+]

@@ -1,0 +1,10 @@
+[
+	{ "s": "RAM", "p": [6] },
+	{ "s": "RECHTE", "p": [2] },
+	{ "s": "REGEL", "p": [17] },
+	{ "s": "REMOVEVIRTUALTAPE", "p": [15] },
+	{ "s": "REMOVEVIRTUALTAPE.PS1", "p": [15] },
+	{ "s": "REPRODUZIERT", "p": [2] },
+	{ "s": "RESSOURCEN", "p": [5, 6, 3] },
+	{ "s": "RICHTIGKEIT", "p": [2] }
+]

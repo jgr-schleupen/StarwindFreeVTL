@@ -1,0 +1,15 @@
+[
+	{ "s": "C", "p": [14, 9, 6] },
+	{ "s": "C:\\PROGRAM", "p": [14] },
+	{ "s": "CD", "p": [14] },
+	{ "s": "COM", "p": [5] },
+	{ "s": "COMPUTER", "p": [9] },
+	{ "s": "COMPUTER\\C\\STARWIND", "p": [9] },
+	{ "s": "COMPUTER\\V\\DP-VTL-0", "p": [9] },
+	{ "s": "CONSOLE", "p": [16, 15, 11, 10, 9, 7, 6] },
+	{ "s": "COPYRIGHT", "p": [17] },
+	{ "s": "CORES", "p": [6] },
+	{ "s": "CREATEVIRTUALTAPELIBRARY", "p": [9] },
+	{ "s": "CREATEVIRTUALTAPELIBRARY.PS1", "p": [9] },
+	{ "s": "CUSTOMBC", "p": [11, 10] }
+]

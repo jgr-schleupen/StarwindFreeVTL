@@ -1,0 +1,20 @@
+[
+	{ "s": "HABEN", "p": [2] },
+	{ "s": "HAHN", "p": [2, 17] },
+	{ "s": "HANDBUCH", "p": [3, 2, 1] },
+	{ "s": "HANDBÜCHER", "p": [1] },
+	{ "s": "HARDWARE", "p": [2] },
+	{ "s": "HERAUSGEBERS", "p": [2] },
+	{ "s": "HERAUSGEGEBEN", "p": [2] },
+	{ "s": "HERGESTELLT", "p": [12] },
+	{ "s": "HERSTELLEN", "p": [12] },
+	{ "s": "HERSTELLERBEZEICHNUNGEN", "p": [2] },
+	{ "s": "HERSTELLUNG", "p": [2] },
+	{ "s": "HERUNTER", "p": [7, 6] },
+	{ "s": "HINWEIS", "p": [6] },
+	{ "s": "HINWEISE", "p": [4, 3, 2] },
+	{ "s": "HOST", "p": [7] },
+	{ "s": "HP", "p": [12] },
+	{ "s": "HTTPS", "p": [5] },
+	{ "s": "HTTPS://WWW.STARWINDSOFTWARE.COM/DOWNLOAD-STARWIND-PRODUCTS#DOWNLOAD", "p": [5] }
+]
